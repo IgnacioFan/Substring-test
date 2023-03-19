@@ -1,11 +1,11 @@
-### Substring test
+## Substring test
 Read in the example files and create substrings based on the ranges under the "---" line by line.
-- Constraints
- - All ranges are not overlapped
+### Constraints
+- All ranges are not overlapped
   - If two ranges have numbers overlapped, then they should be merged into one range
- - each range only contains x and y and x <= y
+- Each range only contains x and y and x <= y
 
-Example 1
+### Example 1
 ```
 按行政執行事件，行政處分經撤銷或變更確定者，執行機關應依職權或因義務人、利害關係人之申請終止執行。
 ---
@@ -13,7 +13,7 @@ Example 1
 6,7 // 事件
 ```
 
-Example 2
+### Example 2
 ```
 按行政執行事件，行政處分經撤銷或變更確定者，執行機關應依職權或因義務人、利害關係人之申請終止執行。
 ---
